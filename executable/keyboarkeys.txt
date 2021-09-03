@@ -2,3 +2,15 @@
 #All keystrokes will be saved in this document, the .LOG serves to show in the notebook the day and time you last entered the document.
 
 #Again, I deleted the Keylogger.exe file to prevent people from using my knowledge and studies to commit crimes and I do NOT agree with that!
+
+#the numbers entered by the numeric keypad appear as:
+0 -> 96
+1 -> 97
+2 -> 98
+3 -> 99
+4 -> 100
+5 -> 101
+6 -> 102
+7 -> 103
+8 -> 104
+9 -> 105
