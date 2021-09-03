@@ -22,6 +22,7 @@ def screen(key):
         keys.append(str(key))
         print(key, keys)
     except TypeError:
+        log(str(key))
         keys.append('Numero <0/9>')
         print(key, keys)
             
