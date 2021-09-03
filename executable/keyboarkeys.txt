@@ -1,1 +1,4 @@
 .LOG
+#All keystrokes will be saved in this document, the .LOG serves to show in the notebook the day and time you last entered the document.
+
+#Again, I deleted the Keylogger.exe file to prevent people from using my knowledge and studies to commit crimes and I do NOT agree with that!
